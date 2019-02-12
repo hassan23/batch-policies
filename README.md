@@ -150,7 +150,7 @@ Bob: No way. Windows is so easy to use that even my mom can use it.
 ## Month 2
 
 *TBA*
-
+ 
 ## Month 3
 
 *TBA*
